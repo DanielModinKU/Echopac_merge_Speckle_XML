@@ -1,0 +1,2 @@
+#ignore .DS_store file (mac specific finder file, useless)
+.DS_Store 

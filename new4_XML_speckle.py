@@ -405,6 +405,7 @@ ttk.Button(window, text='Create merged DTA file', width = 20, command=click3).gr
 ######################################## Kører programmet med GUI  #####################################
 tk.mainloop()
 
+#git test
 
 
 	
